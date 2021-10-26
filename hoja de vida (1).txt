@@ -1,0 +1,114 @@
+
+<!DOCTYPE html> 
+<html>
+<head>
+<title> Hoja de vida </title>
+
+</head>
+
+
+<P><b><H2>Datos personales</H2></b></P>
+
+ 
+     <label>Cédula: <imput type="text" name="name" />8-965-90</label>    
+
+  </p> 
+
+  <p> 
+     <label>Apellido: <imput type="text" name="name" />González </label>    
+
+  </p> 
+
+  <p> 
+
+    <label>Nombre: <imput type="text" name="name" />Nayvelin</label>    
+
+  </p> 
+
+  <p> 
+     <label>Nacionalidad: <imput type="text" name="name" />Panameña</label>    
+
+  </p> 
+
+  <p> 
+     <label>Lugar de nacimiento: <imput type="text" name="name" />Ciudad de Panamá</label>    
+
+  </p> 
+
+  <p> 
+
+    <label>Edad: <imput type="text" name="name" />20</label>    
+
+  </p> 
+
+  <p>   
+
+   
+
+  </p> 
+
+  <p> 
+
+   <label>Dirección: <imput type="text" name="name" />Nuevo Emperador</label>    
+
+  </p> 
+
+  <p> 
+     <label>Correo: <imput type="text" name="name" />Nayvelin@hotmail.es</label>    
+
+  </p> 
+
+  <p> 
+     <label>Celular: <imput type="text" name="name" />6836-8619</label>    
+
+  </p> 
+
+  <p> 
+
+    
+<P><b><H2>Estudios realizados </H2></b></P>
+   <label> Primaria: <imput type="text" name="name" />Centro Educativo Nuevo Arraijan</label>    
+
+  </p> 
+
+  <p> 
+     <label>Secundaria: <imput type="text" name="name" />Centro Educativo Guillermo Endara Galimany</label>    
+
+  </p> 
+
+  <p> 
+
+    <label>Superior: <imput type="text" name="name" />Universidad de Panamá </label>   
+
+  </p> 
+
+  <p> 
+    <P><b><H2>Referencias personales </H2></b></P>
+
+<label>Nombre y teléfono: <imput type="text" name="name" />Nadia Rivera / 6436-9765</label>    
+
+  </p> 
+
+  <p> 
+    <label>Nombre y teléfono: <imput type="text" name="name" />Luisa Gómez / 6543-8765</label>    
+
+  </p> 
+
+  <p> 
+
+  
+    
+ 
+  
+    <button type="submit">Send</button> 
+
+  </p> 
+
+</form> 
+
+ 
+
+</body> 
+
+</html>
+
